@@ -1,8 +1,8 @@
-package aufgaben.aufgabe13;
+package aufgaben;
 
 import java.util.Map;
 
-public class Roman_To_Int {
+public class aufgabe13 {
     public static void main(String[] args) {
         System.out.println(romanToInt("VVI"));
     }

@@ -1,6 +1,6 @@
-package aufgaben.aufgabe9;
+package aufgaben;
 
-class Palidrom_Number {
+class aufgabe9 {
     public static void main(String[] args) {
         System.out.println(isPalindrome(212));
     }

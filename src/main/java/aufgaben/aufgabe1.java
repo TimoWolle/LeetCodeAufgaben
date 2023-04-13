@@ -1,8 +1,8 @@
-package aufgaben.aufgabe1;
+package aufgaben;
 
 import java.util.HashMap;
 
-class Two_Sum {
+class aufgabe1 {
     public static void main(String[] args) {
         System.out.println(twoSum(new int[]{2,3,5,7}, 8));
     }

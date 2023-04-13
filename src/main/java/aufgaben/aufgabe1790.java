@@ -1,8 +1,8 @@
-package aufgaben.aufgabe1790;
+package aufgaben;
 import java.util.Arrays;
 
 
-public class String_Swap {
+public class aufgabe1790 {
     public static void main(String[] args) {
         System.out.println(areAlmostEqual("abcd", "dcba"));
     }
