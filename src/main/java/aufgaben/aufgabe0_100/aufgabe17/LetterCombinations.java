@@ -1,4 +1,4 @@
-package aufgaben.aufgabe17;
+package aufgaben.aufgabe0_100.aufgabe17;
 
 import java.util.*;
 import java.util.stream.Collectors;

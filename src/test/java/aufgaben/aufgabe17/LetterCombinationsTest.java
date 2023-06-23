@@ -1,5 +1,6 @@
 package aufgaben.aufgabe17;
 
+import aufgaben.aufgabe0_100.aufgabe17.LetterCombinations;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

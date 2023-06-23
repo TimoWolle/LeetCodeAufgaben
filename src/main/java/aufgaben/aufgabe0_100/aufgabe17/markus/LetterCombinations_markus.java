@@ -1,4 +1,4 @@
-package aufgaben.aufgabe17.markus;
+package aufgaben.aufgabe0_100.aufgabe17.markus;
 
 import java.util.ArrayList;
 import java.util.HashMap;
