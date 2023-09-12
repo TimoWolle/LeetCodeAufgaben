@@ -1,10 +1,14 @@
+<<<<<<<< HEAD:src/main/java/aufgaben/aufgabe0_100/aufgabe17/LetterCombinations.java
 package aufgaben.aufgabe0_100.aufgabe17;
+========
+package aufgaben;
+>>>>>>>> origin/master:src/main/java/aufgaben/aufgabe17.java
 
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class LetterCombinations {
+public class aufgabe17 {
     public static void main(String[] args) {
         System.out.println(letterCombinations("23"));
     }
